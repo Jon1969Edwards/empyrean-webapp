@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/empyrean-webapp/static/css/main.b630c869.chunk.css",
+    "main.js": "/empyrean-webapp/static/js/main.565101dc.chunk.js",
+    "main.js.map": "/empyrean-webapp/static/js/main.565101dc.chunk.js.map",
+    "runtime-main.js": "/empyrean-webapp/static/js/runtime-main.5b4abf59.js",
+    "runtime-main.js.map": "/empyrean-webapp/static/js/runtime-main.5b4abf59.js.map",
+    "static/js/2.a185162e.chunk.js": "/empyrean-webapp/static/js/2.a185162e.chunk.js",
+    "static/js/2.a185162e.chunk.js.map": "/empyrean-webapp/static/js/2.a185162e.chunk.js.map",
+    "static/js/3.0b1908c5.chunk.js": "/empyrean-webapp/static/js/3.0b1908c5.chunk.js",
+    "static/js/3.0b1908c5.chunk.js.map": "/empyrean-webapp/static/js/3.0b1908c5.chunk.js.map",
+    "index.html": "/empyrean-webapp/index.html",
+    "static/css/main.b630c869.chunk.css.map": "/empyrean-webapp/static/css/main.b630c869.chunk.css.map",
+    "static/js/2.a185162e.chunk.js.LICENSE.txt": "/empyrean-webapp/static/js/2.a185162e.chunk.js.LICENSE.txt",
+    "static/media/glitch.scss": "/empyrean-webapp/static/media/ECsquare2.5e22f89e.png",
+    "static/media/EEcube1.7a284c55.png": "/empyrean-webapp/static/media/EEcube1.7a284c55.png",
+    "static/media/SpeakeasyRoom2.b2dde4ac.jpeg": "/empyrean-webapp/static/media/SpeakeasyRoom2.b2dde4ac.jpeg",
+    "static/media/App.scss": "/empyrean-webapp/static/media/blairitc-tt-bold.0b06718a.ttf",
+    "static/media/depthmap.f669ba56.jpg": "/empyrean-webapp/static/media/depthmap.f669ba56.jpg",
+    "static/media/swiper.scss": "/empyrean-webapp/static/media/speakeasyRoom3.6cd63745.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b4abf59.js",
+    "static/js/2.a185162e.chunk.js",
+    "static/css/main.b630c869.chunk.css",
+    "static/js/main.565101dc.chunk.js"
+  ]
+}
